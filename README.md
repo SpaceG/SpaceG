@@ -23,7 +23,6 @@ Projects I've developed so far in astro & solar photography, imaging, and softwa
 - [xclasslabs.com](https://xclasslabs.com) — Central hub for all astro & solar projects, data, and tooling
 - [AetherPin](https://aetherpin.com) — Social platform for astronomers and solar imagers
 - [AetherPin Connector](https://github.com/SpaceG/aetherpin-connector) — Desktop app (Win/Mac/Linux) that auto-posts FITS/XISF/SER to AetherPin
-  
 - [FlareAlert](https://flarealert.live) — Real-time solar flare tracking & Android app · [Features](https://flarealert.live/features/) · [Demo](https://www.youtube.com/shorts/rU2jZNiwzXg)
 - [sss-ssg.live](https://sss-ssg.live) — Real-time solar activity & imaging platform
 - [sss-ssg.ch](https://sss-ssg.ch) — Solar & astro imaging documentation & equipment
