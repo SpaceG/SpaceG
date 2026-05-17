@@ -3,7 +3,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-000000?logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-000000?logo=x&logoColor=white)
