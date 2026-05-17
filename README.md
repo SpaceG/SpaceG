@@ -22,11 +22,6 @@ Projects I've developed so far in astro & solar photography, imaging, and softwa
 - [xclasslabs.com](https://xclasslabs.com) — Central hub for all astro & solar projects, data, and tooling
 - [AetherPin](https://aetherpin.com) — Social platform for astronomers and solar imagers
 - [AetherPin Connector](https://github.com/SpaceG/aetherpin-connector) — Desktop app (Win/Mac/Linux) that auto-posts FITS/XISF/SER to AetherPin
-- [FlareAlert](https://flarealert.live) — Real-time solar flare tracking & Android app · [Features](https://flarealert.live/features/) · [Demo](https://www.youtube.com/shorts/rU2jZNiwzXg)
 - [sss-ssg.live](https://sss-ssg.live) — Real-time solar activity & imaging platform
 - [sss-ssg.ch](https://sss-ssg.ch) — Solar & astro imaging documentation & equipment
-- [SOHO](https://sss-ssg.live/soho) — L1 solar observations · [LASCO](https://sss-ssg.live/soho/lasco)
-- [SDO AIA 304 Å](https://sss-ssg.live/sdo) — Chromosphere, prominences & active regions
-- [GOES-R SUVI](https://sss-ssg.live/goes-r/suvi304-1/) — EUV solar imagery & space weather
-- [GONG H-Alpha](https://sss-ssg.live/gong/) — Global ground-based H-alpha network
-- [Kanzelhöhe Hα](https://sss-ssg.live/kso/) — Ground-based solar prominence imagery
+
