@@ -28,7 +28,7 @@ Passionate about astrophotography, H-alpha solar imaging, and solar plasma resea
 - [AetherPin](https://aetherpin.com) — Social platform for astronomers and solar imagers
 - [aetherpin.com/space](https://aetherpin.com/space) —WebGL  2D space map, photorealistic PSF star rendering, 8,800+ Hipparcos stars
 - [AetherPin Connector](https://github.com/SpaceG/aetherpin-connector) — Desktop app (Win/Mac/Linux) that auto-posts FITS/XISF/SER to AetherPin
-- [Solar-Guider](https://github.com/SpaceG/solar-guider)) — (OpenCV) + Auto-Guiding-Prototyp (Seam für ASCOM/Alpaca)
+- [Solar-Guider](https://github.com/SpaceG/solar-guider) — (OpenCV) + Auto-Guiding-Prototyp (Seam für ASCOM/Alpaca)
 - [flaregram.com](https://flaregram.com) — Real-time solar flare alerts on your phone
 - [flaregram.com/xray](https://flaregram.com/xray) — GOES X-Ray Flux Real-time 1-minute data from NOAA SWPC
 - [sss-ssg.live](https://sss-ssg.live) — Real-time solar activity & imaging platform
